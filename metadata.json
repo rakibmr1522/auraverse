@@ -1,0 +1,6 @@
+{
+  "name": "AuraVerse",
+  "description": "A brand-new, modern, production-ready social networking platform with real-time feeds, messenger, profiles, stories, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
